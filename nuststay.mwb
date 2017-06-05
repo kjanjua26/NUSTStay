@@ -1,0 +1,5 @@
+/*CREATE DATABASE nuststay;*/
+USE nuststay;
+/*CREATE TABLE student(username char(25),password char(20),hostel char(20),school char(50),degree char (50),image blob);*/
+/*INSERT INTO student (username, password, hostel,school,degree,image) VALUES ('haris', 'yolo', 'Rumi','SEECS','Computer Science',LOAD_FILE('me16.jpg'));*/
+SELECT * FROM student;
